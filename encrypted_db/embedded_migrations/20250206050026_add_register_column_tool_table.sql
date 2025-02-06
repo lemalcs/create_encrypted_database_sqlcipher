@@ -1,0 +1,1 @@
+ALTER TABLE Tool ADD COLUMN Register_Date TEXT;
